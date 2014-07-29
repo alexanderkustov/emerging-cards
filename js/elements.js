@@ -5,12 +5,10 @@ var periodicData = {
     "name":"3D Display",
     "readiness":"– –o",
     "description":"Also known as stereo display, which conveys depth perception through binocular vision, or offsetting images for the right and left eyes. ",
-    
     "image":"http://gallerywallpaper-id.com/wp-content/uploads/2014/04/Eye-Popping-Anaglyph-3D-Images-Building.jpg",
 
   },
   {
-    
     
     "name":"Aerial Wireless Network",
     "readiness":"– –o",
@@ -30,7 +28,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Agricultural Drones",
-    "Photo":"http://goo.gl/Vp50WW",
+    "image":"http://4.bp.blogspot.com/-cIZMjLQiG58/UmAh30CfRrI/AAAAAAAAblM/otn-h4xr7BU/s1600/UAV-precision-agriculture.jpg",
     
     "Breakthrough / Why it matters":"Easy-to-use ­agricultural drones equipped with ­cameras, for less than $1,000. Close monitoring of crops could improve water use and pest management."
   },
@@ -40,7 +38,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Enables precision agriculture by providing real-time information of the conditions of a farm, forest or body of water. ",
     
-    "Photo":"http://goo.gl/OJ86g8",
+    "image":"http://goo.gl/OJ86g8",
     
 
   },
@@ -51,7 +49,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Restores a specific function or group of functions in the body by replacing a natural organ with a manmade device. ",
     
-    "Photo":"http://goo.gl/dccBKn",
+    "image":"http://goo.gl/dccBKn",
     
     "Breakthrough / Why it matters":", for the purpose of restoring a specific function or a group of related functions."
   },
@@ -61,7 +59,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Replicates the natural process of photosynthesis by harvesting sunlight and splitting molecules into carbohydrates, oxygen and hydrogen -- sources of energy.  Could become an essential source of fuel for transportation",
     
-    "Photo":"http://goo.gl/vBS6qK",
+    "image":"http://goo.gl/vBS6qK",
     
     "Breakthrough / Why it matters":"It may become a very important source of fuel for transportation."
   },
@@ -71,7 +69,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"By replacing lost photoceptors with cameras or light-sensitive diodes connected to an implanted chip, new retinas restore light and shapes for the blind.",
     
-    "Photo":"http://goo.gl/tzwEzs",
+    "image":"http://goo.gl/tzwEzs",
     
 
   },
@@ -82,7 +80,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"With the rise of the internet, attention has become a limited resource. When attention is paid, spent, given, taken – or transacted – it becomes influence, which then develops as capital and as an economic system. Platforms like Klout and Scup have been developed to monitor and measure one's influence online.",
     
-    "Photo":"http://goo.gl/9iL6SG",
+    "image":"http://goo.gl/9iL6SG",
     
 
   },
@@ -93,7 +91,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"A live view of real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, metadata or graphics.",
     
-    "Photo":"http://goo.gl/YNma8q",
+    "image":"http://goo.gl/YNma8q",
     
 
   },
@@ -103,7 +101,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Vehicles capable of sensing and navigating its environment could significantly improve safety as human error won't cause accidents. Connectivity and responsive GPS routing would drastically reduce traffic, and the attention required for driving could be used for other activities, like work or socializing.  ",
     
-    "Photo":"http://goo.gl/8nnoUa",
+    "image":"http://goo.gl/8nnoUa",
     
     "Breakthrough / Why it matters":"A human may choose a destination, but is not required to perform any mechanical operation of the vehicle."
   },
@@ -114,7 +112,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Database programs and systems that proactively make decisions and meta-decisions about how to process, capture and store data by analyzing its content.",
     
-    "Photo":"http://goo.gl/6BcGf3",
+    "image":"http://goo.gl/6BcGf3",
     
 
   },
@@ -126,7 +124,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tag: Big Data ; Skin Patch",
-    "Photo":"http://goo.gl/AbokrF",
+    "image":"http://goo.gl/AbokrF",
     
     "Breakthrough / Why it matters":"This particular feature could eventually be used to aid those with Parkinson’s disease and epilepsy."
   },
@@ -136,7 +134,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"By engaging biology with a hacker ethic, one can manage one's own biology using a combination of medical, nutritional and electronic techniques. ",
     
-    "Photo":"http://goo.gl/XzHVJY",
+    "image":"http://goo.gl/XzHVJY",
     "Examples":"http://goo.gl/Q5B8sz",
 
   },
@@ -146,7 +144,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"If one considers the brain evolved to handle one construction of reality, it can now creating new cognitive perceptions by overlay multiple local and remote experiences simultaneously. Biological senses can be enhanced and produced artificially, which adapt and transform to address different kinds of stimuli for specific purposes.",
     
-    "Photo":"http://goo.gl/gisdD8",
+    "image":"http://goo.gl/gisdD8",
     
 
   },
@@ -156,7 +154,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Derived either from nature or synthesized in the laboratory, biomaterials can be used to enhance or replace natural functions in the body. Already used to a small degree, biomaterials have the potential of improving drug delivery (by permitting extended drug release) or grafting in transplants.",
     
-    "Photo":"http://goo.gl/hLXKWL",
+    "image":"http://goo.gl/hLXKWL",
     "Examples":"http://goo.gl/wGHJ1a",
     "Breakthrough / Why it matters":"Already used to a small degree, future biomaterials have the potential of improving drug delivery (by permitting extended drug release) or to improve grafting in transplants."
   },
@@ -166,7 +164,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Relays data from the body through telecommunications. Potential applications include monitoring blood levels, infections and vaccine efficacy .",
     
-    "Photo":"http://goo.gl/eWFGSh",
+    "image":"http://goo.gl/eWFGSh",
     
 
   },
@@ -176,7 +174,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Microscopic technological structures that extract biometric information from an organism to analyze its performance and improve specific functions with assisted feedback. In terms of personal biometry, bionic implants can empower preventive medicine and develop customized solutions for specific organisms and diseases.",
     
-    "Photo":"http://goo.gl/9YeE0h",
+    "image":"http://goo.gl/9YeE0h",
     "Examples":"http://www.fastcompany.com/1116149/smarthand-cyborg-limbs-will-feel-users-own",
 
   },
@@ -186,7 +184,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Assigns tasks (physical or digital) that would otherwise be performed by humans to an autonomous software agent.",
     
-    "Photo":"http://goo.gl/pRA2qF",
+    "image":"http://goo.gl/pRA2qF",
     "Examples":"http://goo.gl/PBc25h",
 
   },
@@ -197,7 +195,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Telepathy.",
     
-    "Photo":"http://goo.gl/OU3G9d",
+    "image":"http://goo.gl/OU3G9d",
     
 
   },
@@ -207,7 +205,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Long-term storage of carbon dioxide or other forms of carbon can prevent the accumulation of greenhouse gases and mitigate global warming. ",
     
-    "Photo":"http://goo.gl/4FZeSK",
+    "image":"http://goo.gl/4FZeSK",
     "Examples":"http://goo.gl/L2FtWm",
     "Breakthrough / Why it matters":"It has been proposed as a way to slow the atmospheric and marine accumulation of greenhouse gases, which are released by burning fossil fuels."
   },
@@ -217,7 +215,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"User to locate millimeter-scale objects on people, surfaces and environments.",
     
-    "Photo":"http://goo.gl/bQ0ojQ",
+    "image":"http://goo.gl/bQ0ojQ",
     "Examples":"http://goo.gl/Ria0Qd",
 
   },
@@ -227,7 +225,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Counteracts the effects of global warming by manipulating greenhouse gas emissions and the Earth's climate.",
     
-    "Photo":"http://goo.gl/XIRbMV",
+    "image":"http://goo.gl/XIRbMV",
     "Examples":"http://goo.gl/EPjP6V , http://goo.gl/yE3rxE",
 
   },
@@ -238,7 +236,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Enables tracking of activity, biometrics and ambient data from clothes worn by an individual.",
     
-    "Photo":"http://goo.gl/z1LJR7",
+    "image":"http://goo.gl/z1LJR7",
     "Examples":"http://goo.gl/RojHDY",
 
   },
@@ -251,7 +249,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Cloudsourcing",
-    "Photo":"http://goo.gl/fHiCQT",
+    "image":"http://goo.gl/fHiCQT",
     "Examples":"http://goo.gl/cFoOpu",
 
   },
@@ -261,7 +259,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Machines that manipulate individual atoms with organism-like self-replicating abilities. These bottom-up, atomically precise 3D printers would be able to carefully create sequences of DNA, RNA or protein.",
     
-    "Photo":"http://goo.gl/bNvXfa",
+    "image":"http://goo.gl/bNvXfa",
     "Examples":"http://goo.gl/slcu41",
 
   },
@@ -272,7 +270,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Depth (or range) imaging is a collection of techniques used to produce a 2D image showing the distance to points in a scene from a specific point. The resulting image can be used to reproduce a 3D scene on screen.",
     
-    "Photo":"http://goo.gl/pGmEZj",
+    "image":"http://goo.gl/pGmEZj",
     
 
   },
@@ -282,7 +280,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"The reputation of an individual or an institution can be easily measured and assessed online through comments, pageviews, reviews, reposts and likes. These components can be exchanged between individuals and groups to develop valuable online presence. ",
     
-    "Photo":"http://goo.gl/MzAxrw",
+    "image":"http://goo.gl/MzAxrw",
     
 
   },
@@ -293,7 +291,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"An alternative, electronic curency that is traded online without middlemen, central banks or backed by national fiat. Digital curencies differ from virtual money in virtual economies as they are used in transactions for real goods and services.",
     
-    "Photo":"http://goo.gl/jEBNJr",
+    "image":"http://goo.gl/jEBNJr",
     
     "Breakthrough / Why it matters":"Currently, alternative digital currencies are not produced by government-endorsed central banks nor necessarily backed by national currencies. Is not limited to circulation within online games."
   },
@@ -305,7 +303,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Digital Identification",
-    "Photo":"http://goo.gl/3AFiSX",
+    "image":"http://goo.gl/3AFiSX",
     "Examples":"http://goo.gl/WnrwBa",
 
   },
@@ -315,7 +313,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Generates electricity from many small energy sources instead of large centralized facilities. Centralized power plants oﬀer economies of scale, but waste power during transmission, and are cannot rapidly adapt to grid needs.",
     
-    "Photo":"http://goo.gl/199h6P",
+    "image":"http://goo.gl/199h6P",
     "Examples":"http://goo.gl/hIOGx3",
 
   },
@@ -325,7 +323,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Transports objects though networks of small unmanned flying vehicles.",
     
-    "Photo":"http://goo.gl/489UDw",
+    "image":"http://goo.gl/489UDw",
     
 
   },
@@ -336,7 +334,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Fabrics embedded with digital components, such as microcontrollers, sensors, and actuators.  Electronic textiles are distinct from wearable computing because emphasis is placed on the seamless integration of textiles with electronic elements. E-textiles can be particularly exciting for interior design.",
     
-    "Photo":"http://goo.gl/7u18Kt",
+    "image":"http://goo.gl/7u18Kt",
     "Examples":"http://goo.gl/IfLxb9",
 
   },
@@ -347,7 +345,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Electroencephalography remains the most feasible practice of executing and implementing brain to brain interfaces. It represents the best temporal-resolution tool for getting a picture of the brain in action, is portable, non-invasive and extremely affordable compared to other methods.",
     
-    "Photo":"http://goo.gl/bNTw9f",
+    "image":"http://goo.gl/bNTw9f",
     "Examples":"http://goo.gl/9lBDnF",
 
   },
@@ -358,7 +356,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Based on the principle that the brain evolved to handle one construction of reality, but now can overlay multiple local and remote experiences simultaneously, creating new cognitive perceptions. Biological senses can be enhanced and produced artificially, which adapt and transform to address different kinds of stimuli for specific purposes.",
     
-    "Photo":"http://goo.gl/nr0SYU",
+    "image":"http://goo.gl/nr0SYU",
     
 
   },
@@ -369,7 +367,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Uses sensors, computer vision and algorithms to identify likely emotions displayed by individuals in a crowd. Could help track behavior in airports and high-risk facilities. ",
     
-    "Photo":"http://goo.gl/mEkwvS",
+    "image":"http://goo.gl/mEkwvS",
     "Examples":"http://goo.gl/8wAhLj",
     "Breakthrough / Why it matters":"Useful in airports and other high-risk facilities."
   },
@@ -379,7 +377,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Captures energy from external sources (e.g. solar power, thermal energy, wind energy, salinity gradients, and kinetic energy) and stores it in small cells for wireless devices, like those used in wearable electronics and wireless sensor networks.",
     
-    "Photo":"http://goo.gl/dzsWC0",
+    "image":"http://goo.gl/dzsWC0",
     "Examples":"http://goo.gl/RYFygV",
 
   },
@@ -389,7 +387,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"The “internet for energy”, where power generators and sensors are connected in a dedicated network to maximize output and efficiency.",
     
-    "Photo":"http://goo.gl/g72aeY",
+    "image":"http://goo.gl/g72aeY",
     "Examples":"http://goo.gl/3cRhg7",
 
   },
@@ -399,7 +397,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Miniaturized Head-Up Display (HUD) embedded in the user's eyewear. ",
     
-    "Photo":"http://goo.gl/jhaKSn",
+    "image":"http://goo.gl/jhaKSn",
     
 
   },
@@ -409,7 +407,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Records real-time consumption of energy and relays it to the utility for monitoring and billing. Can be used for remote load-balancing -- disabling non-essential devices at peak usage.",
     
-    "Photo":"http://goo.gl/NJtr44",
+    "image":"http://goo.gl/NJtr44",
     
 
   },
@@ -420,7 +418,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Display devices which can be rolled up or folded.",
     
-    "Photo":"http://goo.gl/aoa4b1",
+    "image":"http://goo.gl/aoa4b1",
     "Examples":"http://goo.gl/1IrnXL , ",
 
   },
@@ -430,7 +428,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Unlike batteries, fuel cells require a constant source of fuel and oxygen to run, but they can produce electricity continually for as long as these inputs are supplied. They displace the need for natural gas turbines, and are ideally used for stationary power generation or large passenger vehicles such as buses.",
     
-    "Photo":"http://goo.gl/cNhVnX",
+    "image":"http://goo.gl/cNhVnX",
     "Examples":"http://goo.gl/T4mvHC",
 
   },
@@ -443,7 +441,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tag: tech: stem cell therapy",
-    "Photo":"http://goo.gl/2JZ4hd",
+    "image":"http://goo.gl/2JZ4hd",
     "Examples":"http://goo.gl/mPo2w0",
 
   },
@@ -453,7 +451,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"The creation of entirely new strains of food animals and plants in order to better address biological and physiological needs. A departure from genetically modified food, genetically designed food would be engineered from the ground up.",
     
-    "Photo":"http://goo.gl/qfqo2Y",
+    "image":"http://goo.gl/qfqo2Y",
     
 
   },
@@ -465,7 +463,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Genome Editing",
-    "Photo":"http://goo.gl/47csqz",
+    "image":"http://goo.gl/47csqz",
     "Examples":"http://goo.gl/VK8zwi",
     "Breakthrough / Why it matters":"The use of a genome-tool to create two monkeys with specific genetic mutations. The ability to modify targeted genes in primates is a valuable tool in the study of human diseases."
   },
@@ -476,7 +474,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Enables humans to interface with the machine and interact naturally without any mechanical devices.",
     
-    "Photo":"http://goo.gl/CniwIj",
+    "image":"http://goo.gl/CniwIj",
     "Examples":"http://goo.gl/Ou5qg9",
     "Breakthrough / Why it matters":"A drastic extensions of current technologies like the Sensecam and the Looxcie."
   },
@@ -488,7 +486,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tag: tech: Graphene",
-    "Photo":"http://goo.gl/frz6VK",
+    "image":"http://goo.gl/frz6VK",
     "Examples":"http://goo.gl/0IiyLP",
 
   },
@@ -498,7 +496,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"An animal flesh product that has never been part of a complete, living animal. Also known as \"laboratory-grown\" meat.",
     
-    "Photo":"http://goo.gl/KxN9XI",
+    "image":"http://goo.gl/KxN9XI",
     "Examples":"http://goo.gl/q8sTOj",
 
   },
@@ -508,7 +506,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Monitors vibrations and material conditions in buildings, bridges, factories, farms and other infrastructure. Coupled with an intelligent network could feed crucial information back to maintenance crews or robots.",
     
-    "Photo":"http://goo.gl/dcuvFm",
+    "image":"http://goo.gl/dcuvFm",
     "Examples":"http://goo.gl/28PC3C",
 
   },
@@ -518,7 +516,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Devices that integrates one or several laboratory functions on a single chip of only millimeters to a few square centimeters in size. LOCs deal with the handling of extremely small fluid volumes down to less than picoliters. They are safer platforms for chemical, radioactive or biological studies.",
     
-    "Photo":"http://goo.gl/2XeZXf",
+    "image":"http://goo.gl/2XeZXf",
     "Examples":"http://goo.gl/UOdpFP",
 
   },
@@ -528,7 +526,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Translates text or speech from one natural language to another.",
     
-    "Photo":"http://goo.gl/NMHh4f",
+    "image":"http://goo.gl/NMHh4f",
     
     "Breakthrough / Why it matters":"Current efforts such as Google Translate go a long way in translating text, but when coupled with proper Natural language interpretation, this technology would start removing language barriers altogether."
   },
@@ -539,7 +537,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Provides imaging-based automatic inspection, process control and robot guidance in industrial applications.",
     
-    "Photo":"http://goo.gl/Y2TKy8",
+    "image":"http://goo.gl/Y2TKy8",
     
 
   },
@@ -549,7 +547,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Refers to the effective use of information technology to augment human cognition using intelligence amplifying system of tools. Information retrieved from the brain would then be used to feedback necessary stimulus to accomplish determined brain functions.",
     
-    "Photo":"http://goo.gl/zHjCQh",
+    "image":"http://goo.gl/zHjCQh",
     "Examples":"http://goo.gl/AB3y2T",
 
   },
@@ -559,7 +557,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Enables large-scale prototyping. Could print houses, bicycles or artwork.",
     
-    "Photo":"http://goo.gl/wH9cMh",
+    "image":"http://goo.gl/wH9cMh",
     
     "Breakthrough / Why it matters":"The technology is particularly apt for rapid home construction as a way to rebuild after natural disasters."
   },
@@ -569,7 +567,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Emulates living biological organisms/functions mechanically or chemically. Medical nanonbots may be used to enhance or treat the body's functions be mimicking organic systems, then re-programming and adapting to different conditions.",
     
-    "Photo":"http://goo.gl/htOzsj",
+    "image":"http://goo.gl/htOzsj",
     "Examples":"http://goo.gl/y79JwR",
 
   },
@@ -579,7 +577,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Portable scanning devices used to self-diagnose medical conditions within seconds and take basic vital measurements.",
     
-    "Photo":"http://goo.gl/XbtUKw",
+    "image":"http://goo.gl/XbtUKw",
     "Examples":"http://goo.gl/NigyUW",
     "Breakthrough / Why it matters":"A common view is that it will be a general-purpose tool similar in functionality to a Swiss Army Knife to take health measurements such as blood pressure and temperature and blood flow in a noninvasive way."
   },
@@ -589,7 +587,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"A network topology in which each node relays data for the network.",
     
-    "Photo":"http://goo.gl/qqV4Os",
+    "image":"http://goo.gl/qqV4Os",
     "Examples":"http://goo.gl/X3Hu0P",
 
   },
@@ -599,7 +597,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Used to locate centimeter-scale objects inside buildings and venues.",
     
-    "Photo":"http://goo.gl/JC1bTa",
+    "image":"http://goo.gl/JC1bTa",
     
 
   },
@@ -609,7 +607,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"A small, sealed version of a nuclear reactor (approximately a few tens of meters in length) capable of being shipped or flown to a site. At the moment, they can provide 10 MW of power, and will be able to provide 50 MW in the near future.",
     
-    "Photo":"http://goo.gl/SWe1Ed",
+    "image":"http://goo.gl/SWe1Ed",
     "Examples":"http://goo.gl/VWKBx3",
     "Breakthrough / Why it matters":"Currently able to provide 10 MW of power, plans are for 50 MW capacity in the near future."
   },
@@ -621,7 +619,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Microscale 3D Printing",
-    "Photo":"http://goo.gl/KxP9Vv",
+    "image":"http://goo.gl/KxP9Vv",
     "Examples":"http://goo.gl/xF4hG8",
     "Breakthrough / Why it matters":"3-D printing that uses multiple materials to create objects such as biological tissue with blood vessels. Making biological materials with desired functions could lead to artificial organs and novel cyborg parts."
   },
@@ -631,7 +629,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Subdivides a system into parts to drive multiple functionalities in different systems. The modular approach enables customization and augmetnation through flexible design.",
     
-    "Photo":"http://goo.gl/ZNZxaa",
+    "image":"http://goo.gl/ZNZxaa",
     
     "Breakthrough / Why it matters":".Besides reduction in cost (due to lesser customization, and less learning time), and flexibility in design, modularity offers other benefits such as augmentation (adding new solution by merely plugging in a new module), and exclusion."
   },
@@ -643,7 +641,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: tech: Handheld Molecular Analyzer",
-    "Photo":"http://goo.gl/oqTFY8",
+    "image":"http://goo.gl/oqTFY8",
     "Examples":"http://goo.gl/xD07tt",
 
   },
@@ -654,7 +652,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"An online course designed for large-scale participation and open access.",
     
-    "Photo":"http://goo.gl/PORsXm",
+    "image":"http://goo.gl/PORsXm",
     "Examples":"http://goo.gl/pXMRwE",
 
   },
@@ -664,7 +662,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"The medical application of nanotechnology, which could include materials, sensors, or even molecules.",
     
-    "Photo":"http://goo.gl/s3dSfp",
+    "image":"http://goo.gl/s3dSfp",
     "Examples":"http://goo.gl/T3On5V",
 
   },
@@ -674,7 +672,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Enables directly manipulating individual groups of molecules. Could print food, medicine or body parts.",
     
-    "Photo":"http://goo.gl/miabzh",
+    "image":"http://goo.gl/miabzh",
     "Examples":"http://goo.gl/lmY0mN",
 
   },
@@ -684,7 +682,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Hundreds of thousands of processor cores can be programmed algorithmically to identify an image. For example -- it can identify a cat based on thousands of cat pictures.",
     
-    "Photo":"http://goo.gl/hZfLBl",
+    "image":"http://goo.gl/hZfLBl",
     "Examples":"http://goo.gl/hKTIVe",
 
   },
@@ -696,7 +694,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: neurogaming",
-    "Photo":"http://goo.gl/GxjlfQ",
+    "image":"http://goo.gl/GxjlfQ",
     "Examples":"http://goo.gl/a48NJZ",
 
   },
@@ -707,7 +705,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Neural devices that can substitute damaged motor, sensory or cognitive modalities. Applications may include neural repair, advanced cognitive features and extended physiological senses.",
     
-    "Photo":"http://goo.gl/si9PkF",
+    "image":"http://goo.gl/si9PkF",
     "Examples":"http://goo.gl/ZXUNco",
 
   },
@@ -720,7 +718,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Open health records",
-    "Photo":"http://goo.gl/pX36Xt",
+    "image":"http://goo.gl/pX36Xt",
     "Examples":"http://goo.gl/YBEFQL",
 
   },
@@ -730,7 +728,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"A political philosophy which advocates for open source and open content applications to democratic principles, so any interested citizen may contribute to the creation of policy -- as with a wiki document.",
     
-    "Photo":"http://goo.gl/9gu3oJ",
+    "image":"http://goo.gl/9gu3oJ",
     "Examples":"http://goo.gl/LYPYDd",
 
   },
@@ -740,7 +738,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Combines cellular engineering, material methods, suitable biochemical and physio-chemical factors to improve or replace biological functions. The term is associated with tools that may repair or replace portions of or whole tissues.",
     
-    "Photo":"http://goo.gl/uO8ZbG",
+    "image":"http://goo.gl/uO8ZbG",
     "Examples":"http://goo.gl/FQWz2P",
 
   },
@@ -750,7 +748,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Works around the vicinity of the user, enabling close-range bandwidth and information sharing.",
     
-    "Photo":"http://goo.gl/ucY3K8",
+    "image":"http://goo.gl/ucY3K8",
     "Examples":"http://goo.gl/cBICLP",
 
   },
@@ -760,7 +758,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"A form of public transport featuring small automated vehicles operating on a network of specially-built guideways. PRT is a type of automated guideway transit (AGT), which also includes larger vehicles, to small subway systems.",
     
-    "Photo":"http://goo.gl/PUIRgm",
+    "image":"http://goo.gl/PUIRgm",
     "Examples":"http://goo.gl/AFpk6u",
 
   },
@@ -771,7 +769,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"The application of molecular and genomic analysis, and systems biology to analyze a patient's disease, to then utilize targeted, integrated treatments to address the disease",
     
-    "Photo":"http://goo.gl/uJqnlt",
+    "image":"http://goo.gl/uJqnlt",
     "Examples":"http://goo.gl/VrujD0",
 
   },
@@ -781,7 +779,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Glass integrated with solar cells to converts solar energy into electricity -- the power for an entire building could be generated through its roof and surfaces.",
     
-    "Photo":"http://goo.gl/ctAFMO",
+    "image":"http://goo.gl/ctAFMO",
     "Examples":"http://goo.gl/0n8Hca",
     "Breakthrough / Why it matters":"This means that the power for an entire building can be produced within the roof and facade areas."
   },
@@ -791,7 +789,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Miniature ors in handheld devices such as mobile phones, personal digital assistants and digital cameras.",
     
-    "Photo":"http://goo.gl/vAefqM",
+    "image":"http://goo.gl/vAefqM",
     "Examples":"http://goo.gl/CjlVTC",
     "Breakthrough / Why it matters":"It is a response to the emergence of compact portable devices such as mobile phones, personal digital assistants, and digital cameras, which have sufficient storage capacity to handle presentation materials but little space to accommodate an attached display screen."
   },
@@ -802,7 +800,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Electricity resulting from pressure or mechanical stress.",
     
-    "Photo":"http://goo.gl/KPrRxd",
+    "image":"http://goo.gl/KPrRxd",
     "Examples":"http://goo.gl/d9Alha",
     "Breakthrough / Why it matters":"Piezoelectricity is found in the production and detection of sound, generation of high voltages, electronic frequency generation, etc."
   },
@@ -813,7 +811,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"A framework designed to assist and protect individuals in dangerous environments, such as combat soldiers, construction workers, firefighters, rescue teams, etc.",
     
-    "Photo":"http://goo.gl/7zDmDZ",
+    "image":"http://goo.gl/7zDmDZ",
     "Examples":"http://goo.gl/qdkqKg",
     "Breakthrough / Why it matters":"They may be designed, for example, to assist and protect soldiers and construction workers, or to aid the survival of people in other dangerous environments."
   },
@@ -823,7 +821,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Farming management based on observing (and responding to) intra-field variations. With satellite imagery and advanced sensors, farmers can optimize returns on inputs while preserving resources at ever larger scales. Further understanding of crop variability, geolocated weather data and precise sensors should allow improved automated decision-making and complementary planting techniques.",
     
-    "Photo":"http://goo.gl/6fr6EA",
+    "image":"http://goo.gl/6fr6EA",
     "Examples":"http://goo.gl/TtEsDy",
 
   },
@@ -834,7 +832,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"A direct manipulation of an embryo/fetus genome using biotechnology.",
     
-    "Photo":"http://goo.gl/AuhBaa",
+    "image":"http://goo.gl/AuhBaa",
     "Examples":"http://goo.gl/fKrCzG",
 
   },
@@ -844,7 +842,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Electrically functional or optical inks are deposited on the material, creating active or passive devices, such as thin ﬁlm transistors or resistors. Printed electronics is expected to facilitate widespread, very low-cost, low-performance electronics for applications such as ﬂexible displays, smart labels, decorative and animated posters, and active clothing that do not require high performance.",
     
-    "Photo":"http://goo.gl/DDdI0r",
+    "image":"http://goo.gl/DDdI0r",
     "Examples":"http://goo.gl/8kpHQj",
 
   },
@@ -855,7 +853,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Software applications with the capacity of discerning and predicting likely future needs of the user. Intelligently scheduling meetings, sorting email and selectively notifying the user are potential usages.",
     
-    "Photo":"http://goo.gl/NkuLYX",
+    "image":"http://goo.gl/NkuLYX",
     "Examples":"http://goo.gl/2bFVCz",
 
   },
@@ -866,7 +864,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Have one or more properties that can be significantly changed in a controlled fashion by external stimuli, such as stress, temperature, moisture, pH, electric or",
     
-    "Photo":"http://goo.gl/JszH78",
+    "image":"http://goo.gl/JszH78",
     "Examples":"http://goo.gl/to0Vl9",
 
   },
@@ -876,7 +874,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"As the network provides more opportunities for individual influence through comments, reviews and likes, it provides more context, cause and character for decision-making.",
     
-    "Photo":"http://goo.gl/vDTk7Q",
+    "image":"http://goo.gl/vDTk7Q",
     
 
   },
@@ -887,7 +885,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"The hypothetical combination of dozens or hundreds of agricultural robots with thousands of microscopic sensors, which together would monitor, predict, cultivate and extract crops from the land with practically no human intervention. Small-scale implementations are already on the horizon.",
     
-    "Photo":"http://goo.gl/aQ9sbt",
+    "image":"http://goo.gl/aQ9sbt",
     
 
   },
@@ -897,7 +895,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Permanent dwellings at sea outside the territories claimed by governments of any standing nation.",
     
-    "Photo":"http://goo.gl/ZHePDh",
+    "image":"http://goo.gl/ZHePDh",
     "Examples":"http://goo.gl/aY1siI",
 
   },
@@ -908,7 +906,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Like biological systems that have the ability to heal themselves after being wounded, materials are being developed with structural ability to repair damage caused by wear and tear.",
     
-    "Photo":"http://goo.gl/f1lW5U",
+    "image":"http://goo.gl/f1lW5U",
     "Examples":"http://goo.gl/tqGZuA",
     "Breakthrough / Why it matters":"The inspiration comes from biological systems, which have the ability to heal after being wounded."
   },
@@ -919,7 +917,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Improves search accuracy by assessing searcher intent and context to generate more relevant results.",
     
-    "Photo":"http://goo.gl/CdNJ9Z",
+    "image":"http://goo.gl/CdNJ9Z",
     "Examples":"http://goo.gl/SwCLMH",
 
   },
@@ -932,7 +930,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Service Robotics",
-    "Photo":"http://goo.gl/gJAZMO",
+    "image":"http://goo.gl/gJAZMO",
     "Examples":"http://goo.gl/wQqfmf",
     "Breakthrough / Why it matters":"Legged machines that stride over uneven or unsteady terrain. Much of the world is inaccessible to wheeled machines but not legged ones."
   },
@@ -944,7 +942,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Smart Lens",
-    "Photo":"http://goo.gl/ViLMkr",
+    "image":"http://goo.gl/ViLMkr",
     "Examples":"http://goo.gl/bwA6sK",
 
   },
@@ -955,7 +953,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Drugs, supplements, nutraceuticals and functional foods that improve mental functions such as cognition, memory, intelligence, motivation, attention, and concentration.",
     
-    "Photo":"http://goo.gl/xB6sTN",
+    "image":"http://goo.gl/xB6sTN",
     
 
   },
@@ -966,7 +964,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Short fibers, polymers and a solvent delivered in liquid form. When in contact with a surface (such as a shaping mold), the solvent becomes a fabric. Soaking clothes returns them to liquid form, so they may be reused. ",
     
-    "Photo":"http://goo.gl/bhP3TY",
+    "image":"http://goo.gl/bhP3TY",
     "Examples":"http://goo.gl/Me7lv7",
 
   },
@@ -976,7 +974,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Gives way to a range of new applications, such as cyber skin for robotics and flesh-like devices with embedded electronic nervous systems.",
     
-    "Photo":"http://goo.gl/mqKRL1",
+    "image":"http://goo.gl/mqKRL1",
     "Examples":"http://goo.gl/z0i2LL",
 
   },
@@ -986,7 +984,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Inspired by water bugs that ﬂoat on liquid surfaces, these materials repel both oily and watery ﬂuids.",
     
-    "Photo":"http://goo.gl/pHzKPg",
+    "image":"http://goo.gl/pHzKPg",
     "Examples":"http://goo.gl/KGcZ2w",
 
   },
@@ -999,7 +997,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tag: Biometric Sex Toys",
-    "Photo":"http://goo.gl/zmkwQK",
+    "image":"http://goo.gl/zmkwQK",
     "Examples":"http://goo.gl/ilpDDI",
 
   },
@@ -1010,7 +1008,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Allows a person to feel, or have the effect of being present at a place other than their true location.",
     
-    "Photo":"http://goo.gl/z8775G",
+    "image":"http://goo.gl/z8775G",
     "Examples":"http://goo.gl/EwDOo2",
 
   },
@@ -1021,7 +1019,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Thermal energy can be accumulated in active solar collectors, combined heat and power plants, and then transferred to insulated repositories forspace heating, domestic or process water heating.",
     
-    "Photo":"http://goo.gl/6DVedw",
+    "image":"http://goo.gl/6DVedw",
     
 
   },
@@ -1031,7 +1029,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"New fuels sourced through genetic modification -- for example, hydrogen can be produced from highly efficient algae and energy-dense furans.",
     
-    "Photo":"http://goo.gl/0h1TRq",
+    "image":"http://goo.gl/0h1TRq",
     
 
   },
@@ -1041,7 +1039,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Screens which let light through, so windows and windshields may be used as computer interfaces. ",
     
-    "Photo":"http://goo.gl/Ela89k",
+    "image":"http://goo.gl/Ela89k",
     "Examples":"http://goo.gl/17OKhX",
 
   },
@@ -1051,7 +1049,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Cultivates plant or animal life within dedicated or mixed-use skyscrapers in urban settings. This could allow for year-round crop production, protection from weather, support urban food autonomy and reduced transport costs.",
     
-    "Photo":"http://goo.gl/ZQhReg",
+    "image":"http://goo.gl/ZQhReg",
     
     "Breakthrough / Why it matters":"The advantages are numerous, including year-round crop production, protection from weather, support urban food autonomy and reduced transport costs."
   },
@@ -1063,7 +1061,7 @@ var periodicData = {
     "Hyper-connected economy":"",
    
     "Examples":"tech: Virtual Reality Headset",
-    "Photo":"http://goo.gl/EuTRI4",
+    "image":"http://goo.gl/EuTRI4",
     
     "Breakthrough / Why it matters":"High-quality virtual-reality hardware that is cheap enough for the consumer market. Visually immersive interfaces will lead to new forms of entertainment and communications."
   },
@@ -1073,7 +1071,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Tileable and interactive screen-wallpapers are expected to dominate all types of surfaces for domestic and professional uses. Wrap-around screens engage peripheral vision and create a truly immersive experience.",
     
-    "Photo":"http://goo.gl/FeKK7Y",
+    "image":"http://goo.gl/FeKK7Y",
     
 
   }
