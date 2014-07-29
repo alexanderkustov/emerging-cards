@@ -391,7 +391,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Uses sensors, computer vision and algorithms to identify likely emotions displayed by individuals in a crowd. Could help track behavior in airports and high-risk facilities. ",
     
-    "image":"photos/Emotion Tracking.jpg",
+    "image":"photos/Emotion-Tracking.jpg",
     "Examples":"http://goo.gl/8wAhLj",
     "Breakthrough / Why it matters":"Useful in airports and other high-risk facilities.
     "
