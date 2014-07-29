@@ -739,7 +739,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Hundreds of thousands of processor cores can be programmed algorithmically to identify an image. For example -- it can identify a cat based on thousands of cat pictures.",
     
-    "image":"http://goo.gl/hZfLBl",
+"image":"photos/Neural Network Image Recognition.jpg",
     "Examples":"http://goo.gl/hKTIVe",
     
 
@@ -752,7 +752,7 @@ var periodicData = {
     "Hyper-connected economy":"",
     
     "Examples":"tech: neurogaming",
-    "image":"http://goo.gl/GxjlfQ",
+"image":"photos/Neurogaming.jpg",
     "Examples":"http://goo.gl/a48NJZ",
     
 
@@ -764,7 +764,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Neural devices that can substitute damaged motor, sensory or cognitive modalities. Applications may include neural repair, advanced cognitive features and extended physiological senses.",
     
-    "image":"http://goo.gl/si9PkF",
+"image":"photos/Neuroprosthetics.jpg",
     "Examples":"http://goo.gl/ZXUNco",
     
 
@@ -778,7 +778,7 @@ var periodicData = {
     "Hyper-connected economy":"",
     
     "Examples":"tech: Open health records",
-    "image":"http://goo.gl/pX36Xt",
+"image":"photos/Open Health Records.jpg",
     "Examples":"http://goo.gl/YBEFQL",
     
 
@@ -789,7 +789,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"A political philosophy which advocates for open source and open content applications to democratic principles, so any interested citizen may contribute to the creation of policy -- as with a wiki document.",
     
-    "image":"http://goo.gl/9gu3oJ",
+"image":"photos/Open-source Governance.jpg",
     "Examples":"http://goo.gl/LYPYDd",
     
 
@@ -800,7 +800,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Combines cellular engineering, material methods, suitable biochemical and physio-chemical factors to improve or replace biological functions. The term is associated with tools that may repair or replace portions of or whole tissues.",
     
-    "image":"http://goo.gl/uO8ZbG",
+"image":"photos/Organ Printing.jpg",
     "Examples":"http://goo.gl/FQWz2P",
     
 
@@ -811,7 +811,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Works around the vicinity of the user, enabling close-range bandwidth and information sharing.",
     
-    "image":"http://goo.gl/ucY3K8",
+"image":"photos/Personal Area Networks.jpg",
     "Examples":"http://goo.gl/cBICLP",
     
 
@@ -822,7 +822,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"A form of public transport featuring small automated vehicles operating on a network of specially-built guideways. PRT is a type of automated guideway transit (AGT), which also includes larger vehicles, to small subway systems.",
     
-    "image":"http://goo.gl/PUIRgm",
+"image":"photos/Personal Rapid Transit.jpg",
     "Examples":"http://goo.gl/AFpk6u",
     
 
@@ -834,7 +834,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"The application of molecular and genomic analysis, and systems biology to analyze a patient's disease, to then utilize targeted, integrated treatments to address the disease",
     
-    "image":"http://goo.gl/uJqnlt",
+"image":"photos/Personalized Medicine.jpg",
     "Examples":"http://goo.gl/VrujD0",
     
 
@@ -845,7 +845,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Glass integrated with solar cells to converts solar energy into electricity -- the power for an entire building could be generated through its roof and surfaces.",
     
-    "image":"http://goo.gl/ctAFMO",
+"image":"photos/Photovoltaic Glass.jpg",
     "Examples":"http://goo.gl/0n8Hca",
     "Breakthrough / Why it matters":"This means that the power for an entire building can be produced within the roof and facade areas.
     "
@@ -856,7 +856,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Miniature ors in handheld devices such as mobile phones, personal digital assistants and digital cameras.",
     
-    "image":"http://goo.gl/vAefqM",
+"image":"photos/Pico Projectors.jpg",
     "Examples":"http://goo.gl/CjlVTC",
     "Breakthrough / Why it matters":"It is a response to the emergence of compact portable devices such as mobile phones, personal digital assistants, and digital cameras, which have sufficient storage capacity to handle presentation materials but little space to accommodate an attached display screen.
     "
@@ -868,7 +868,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"Electricity resulting from pressure or mechanical stress.",
     
-    "image":"http://goo.gl/KPrRxd",
+"image":"photos/Piezoelectric Power Generation.jpg",
     "Examples":"http://goo.gl/d9Alha",
     "Breakthrough / Why it matters":"Piezoelectricity is found in the production and detection of sound, generation of high voltages, electronic frequency generation, etc.
     "
@@ -880,7 +880,7 @@ var periodicData = {
     "readiness":"– – –o",
     "description":"A framework designed to assist and protect individuals in dangerous environments, such as combat soldiers, construction workers, firefighters, rescue teams, etc.",
     
-    "image":"http://goo.gl/7zDmDZ",
+"image":"photos/Powered Exoskeleton.jpg",
     "Examples":"http://goo.gl/qdkqKg",
     "Breakthrough / Why it matters":"They may be designed, for example, to assist and protect soldiers and construction workers, or to aid the survival of people in other dangerous environments.
     "
@@ -891,7 +891,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Farming management based on observing (and responding to) intra-field variations. With satellite imagery and advanced sensors, farmers can optimize returns on inputs while preserving resources at ever larger scales. Further understanding of crop variability, geolocated weather data and precise sensors should allow improved automated decision-making and complementary planting techniques.",
     
-    "image":"http://goo.gl/6fr6EA",
+"image":"photos/Precision Agriculture.jpg",
     "Examples":"http://goo.gl/TtEsDy",
     
 
@@ -903,7 +903,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"A direct manipulation of an embryo/fetus genome using biotechnology.",
     
-    "image":"http://goo.gl/AuhBaa",
+"image":"photos/Prenatal Gene Manipulation.jpg",
     "Examples":"http://goo.gl/fKrCzG",
     
 
@@ -914,7 +914,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Electrically functional or optical inks are deposited on the material, creating active or passive devices, such as thin ﬁlm transistors or resistors. Printed electronics is expected to facilitate widespread, very low-cost, low-performance electronics for applications such as ﬂexible displays, smart labels, decorative and animated posters, and active clothing that do not require high performance.",
     
-    "image":"http://goo.gl/DDdI0r",
+"image":"photos/Printed Electronics.jpg",
     "Examples":"http://goo.gl/8kpHQj",
     
 
@@ -926,7 +926,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Software applications with the capacity of discerning and predicting likely future needs of the user. Intelligently scheduling meetings, sorting email and selectively notifying the user are potential usages.",
     
-    "image":"http://goo.gl/NkuLYX",
+"image":"photos/Proactive Software Agents.jpg",
     "Examples":"http://goo.gl/2bFVCz",
     
 
@@ -938,7 +938,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Have one or more properties that can be significantly changed in a controlled fashion by external stimuli, such as stress, temperature, moisture, pH, electric or",
     
-    "image":"http://goo.gl/JszH78",
+"image":"photos/Reactive Materials.jpg",
     "Examples":"http://goo.gl/to0Vl9",
     
 
@@ -949,7 +949,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"As the network provides more opportunities for individual influence through comments, reviews and likes, it provides more context, cause and character for decision-making.",
     
-    "image":"http://goo.gl/vDTk7Q",
+"image":"photos/Reputation Economies.jpg",
     
     
 
@@ -961,7 +961,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"The hypothetical combination of dozens or hundreds of agricultural robots with thousands of microscopic sensors, which together would monitor, predict, cultivate and extract crops from the land with practically no human intervention. Small-scale implementations are already on the horizon.",
     
-    "image":"http://goo.gl/aQ9sbt",
+"image":"photos/Robotic Farm Swarms.jpg",
     
     
 
@@ -972,7 +972,7 @@ var periodicData = {
     "readiness":"–o",
     "description":"Permanent dwellings at sea outside the territories claimed by governments of any standing nation.",
     
-    "image":"http://goo.gl/ZHePDh",
+"image":"photos/Seasteading.jpg",
     "Examples":"http://goo.gl/aY1siI",
     
 
@@ -984,7 +984,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Like biological systems that have the ability to heal themselves after being wounded, materials are being developed with structural ability to repair damage caused by wear and tear.",
     
-    "image":"http://goo.gl/f1lW5U",
+"image":"photos/Self-Healing Materials.jpg",
     "Examples":"http://goo.gl/tqGZuA",
     "Breakthrough / Why it matters":"The inspiration comes from biological systems, which have the ability to heal after being wounded.
     "
@@ -996,7 +996,7 @@ var periodicData = {
     "readiness":"– –o",
     "description":"Improves search accuracy by assessing searcher intent and context to generate more relevant results.",
     
-    "image":"http://goo.gl/CdNJ9Z",
+"image":"photos/Semantic Search.jpg",
     "Examples":"http://goo.gl/SwCLMH",
     
 
@@ -1010,7 +1010,7 @@ var periodicData = {
     "Hyper-connected economy":"",
     
     "Examples":"tech: Service Robotics",
-    "image":"http://goo.gl/gJAZMO",
+"image":"photos/Service Robots.jpg",
     "Examples":"http://goo.gl/wQqfmf",
     "Breakthrough / Why it matters":"Legged machines that stride over uneven or unsteady terrain. Much of the world is inaccessible to wheeled machines but not legged ones.
     "
