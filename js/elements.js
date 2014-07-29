@@ -4,8 +4,7 @@ var periodicData = {
     "name":"3D Display",
     "readiness":"– –o",
     "description":"Also known as stereo display, which conveys depth perception through binocular vision, or offsetting images for the right and left eyes. ",
-    "image":"photos/3D_Display.jpg"
-    ,
+    "image":"photos/3D_Display.jpg",
   },
   {
 
@@ -1138,8 +1137,7 @@ var periodicData = {
     
     "image":"photos/Vertical Farming.jpg",
     
-    "Breakthrough / Why it matters":"The advantages are numerous, including year-round crop production, protection from weather, support urban food autonomy and reduced transport costs.
-    "
+    
   },
   {
 
@@ -1151,8 +1149,6 @@ var periodicData = {
     "Examples":"tech: Virtual Reality Headset",
     "image":"photos/Virtual Reality Headset.jpg",
     
-    "Breakthrough / Why it matters":"High-quality virtual-reality hardware that is cheap enough for the consumer market. Visually immersive interfaces will lead to new forms of entertainment and communications.
-    "
   },
   {
 
