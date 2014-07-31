@@ -4,6 +4,17 @@ body {
 	background-color: #E5E9ED;
 }
 
+
+.card-bg{
+    background: #fff;
+}
+
+.site-title h2 b{
+    padding: 5px;
+    border: 4px solid #333;
+    color:#333;
+}
+
 #container {
     width: 100%;
     height: 100%;
@@ -48,6 +59,9 @@ body {
     transform: none;
 }
 /* flip speed goes here */
+
+
+
 .card {
 	 -webkit-transition: -webkit-transform .5s;
    -moz-transition: -moz-transform .5s;

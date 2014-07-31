@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <link href='css/bootstrap.css' rel='stylesheet' />
     <link href='css/cards.css' rel='stylesheet' />
-    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
 </head>
 <body>
@@ -15,7 +15,6 @@
            Futurekit technologies<br>
            <small><a href="#">futurek.it</a> - <a href="http://twitter.com/futurefuturekit">@futurefuturekit</a></small>
             <br />
-
             <small>Search by name: <input type="text" class="form-control" ng-model="search.name"></small>
          <h1>
      
@@ -25,7 +24,7 @@
         <div class="col-sm-12 col-lg-12" data-ng-controller="chemCtrl">
 
 
-         <div class="col-md-4 col-sm-6" data-ng-repeat="card in periodic.cards | filter:search" >
+         <div class="col-md-4 col-sm-6" data-ng-repeat="card in periodic.cards | filter:search " >
              <div class="card-container">
                 <div class="card">
                     <div class="front">
@@ -37,7 +36,6 @@
                             <div class="main">
                                 <h3 class="name"> {{card.name}}</h3>
                               
-                                
                                 <p class="description">{{card.description}}</p>
                             </div>
                             <div class="footer">
@@ -59,14 +57,19 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://code.jquery.com/jquery.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="lib/bootstrap.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>
 <script type="text/javascript" src="js/elements.js"></script>
 
 </body>
 <script>
     function chemCtrl($scope) {
-        $scope.periodic = periodicData;
-    }
+     $scope.periodic = periodicData; 
+    
+
+    
+}
+
+
+
 </script>
 </html>
